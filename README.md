@@ -66,6 +66,4 @@ We'll learn through a combination of:
 
 As we progress through the lessons, I want you to set achievable goals for yourself. This will help you stay motivated and track your progress. Don't worry if you don't understand something at first – we'll work through it together.
 
-**Let's get started!**
-
-What topic would you like to explore first? Do you have any questions or concerns?
+## Let's get started on this coding adventure together
